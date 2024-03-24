@@ -1,13 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome!&fontSize=50&animation=fadeIn)
 
-<h3 align="center"> Language </h3>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-
 <h3 align="center"> Back-end Stack </h3>
+<div align=center>
+	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <br>
+</div>
 
 <h3 align="center"> Front-end Stack </h3>
-
+<div align=center>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <br>
+</div>
+  
 <h3 align="center"> DataBase Stack </h3>
 
 <h3 align="center"> Tools </h3>
