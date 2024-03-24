@@ -20,14 +20,31 @@
   <br>
 </div>
   
-<h3 align="center"> DataBase </h3>
+<h3 align="center"> DB </h3>
 <div align=center>
 	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
- </div>
+</div>
 
-<h3 align="center"> Tools </h3>
+<h3 align="center"> DevOps </h3>
+<div align=center>
+	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
+</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjaejun%2Fhit-counter&count_bg=%23577fde&title_bg=%23577fde&icon=&icon_color=%23577fde&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+<h3 align="center"> Tool </h3>
+<div align=center>
+	<img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=flat&logo=eclipseide&logoColor=white">
+	<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+	<img src="https://img.shields.io/badge/intellij%20idea-000000?style=flat&logo=intellijidea&logoColor=white">
+</div>
+
+<h3 align="center"> Collaboration Tools </h3>
+<div align=center>
+	<img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white">
+	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
+</div>
+
 ![jjaejun's GitHub Status](https://github-readme-stats.vercel.app/api?username=jjaejun&show_icons=true)
 <br>
 <br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjaejun%2Fhit-counter&count_bg=%23577fde&title_bg=%23577fde&icon=&icon_color=%23577fde&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
